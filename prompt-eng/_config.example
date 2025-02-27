@@ -5,5 +5,4 @@
 
 URL_GENERATE=http://localhost:11434/api/generate
 #URL_GENERATE=https://chat.hpc.fau.edu/api/chat/completions
-#API_KEY=
-
+#API_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjBmNzliOGUyLThmNjgtNGVjNS05MjFjLWY3MjQ1N2UxN2Y2MyJ9.YXQu_Jq7YpQ-bWXaCW3jOMuQp6t1HwLRRw_G6nW8vF0 
